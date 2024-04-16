@@ -13,16 +13,13 @@ public class dayOFWeek {
             switch (input)
             {
                 case "Sunday" :
-                    //boolean b = Objects.equals(input, "Sunday");
+                case "sunday" :
+                case "Saturday" :
+                case "saturday" :
                     System.out.println("It is a weekend day");
                     break;
-                case "Saturday" :
-                   // boolean b1 = Objects.equals(input, "Saturday");
-                    System.out.println("It is a weekend day");
                 default:
                     System.out.println("It isn't weekend!!");
             }
-
         }
-
     }
