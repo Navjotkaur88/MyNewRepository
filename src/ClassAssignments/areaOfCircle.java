@@ -7,7 +7,6 @@ public class areaOfCircle {
     System.out.println("Please enter the radius of the circle");
     Scanner scanner = new Scanner(System.in);
     double radius;
-
         radius = scanner.nextDouble();
        double area = (radius * radius * Math.PI);
     {
