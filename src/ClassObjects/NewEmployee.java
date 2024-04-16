@@ -13,6 +13,11 @@ public class Employee {
 } public static void main(String[] args) {
     Employee employee = new Employee();
     employee.printEmployeeDetails("Sonu", 101);
+
+    Class- is logical entity
+    Object- state behaviour in entity
+    new - allocate memory to an object// heap memory
+    methods- Parameters and arguments
 }
 */
 }
