@@ -1,4 +1,4 @@
-package Arrays;
+package ClassAssignments;
 
 public class maxNumber {
     public static void main(String[] args) {
