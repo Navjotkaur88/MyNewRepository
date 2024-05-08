@@ -30,7 +30,7 @@ public class TestArray {
         System.out.println("Index of 30 is : " +i);
        list1.addAll(list2);
        System.out.println();
-        int j = list2.indexOf(30);
-        System.out.println("Index of 30 is : " +j);
+        int j = list2.indexOf(40);
+        System.out.println("Index of 40 is : " +j);
     }
 }
